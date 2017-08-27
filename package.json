@@ -1,0 +1,25 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "my web workflow with npm gulp sass and mas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlito06/workflow.git"
+  },
+  "keywords": [
+    "SAss",
+    "NPM",
+    "Git",
+    "Gulp"
+  ],
+  "author": "D aguilar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlito06/workflow/issues"
+  },
+  "homepage": "https://github.com/dlito06/workflow#readme"
+}
